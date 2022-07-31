@@ -1,2 +1,4 @@
 Hello world
 this is second commit
+
+this is a new line of text which is not committed
